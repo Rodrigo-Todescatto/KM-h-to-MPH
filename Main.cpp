@@ -13,4 +13,6 @@ int main() {
 
 	std::cout << Mph;
 
+	return 0;
+
 }
